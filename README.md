@@ -2,13 +2,13 @@
 
 
 
-
-
 <div align="center">
 
-<h3>A passionate Data Science & AI enthusiast from India</h3>
+<h2>A passionate Data Science & AI enthusiast from India</h2>
 
 </div>
+
+
 I apply AI & Deep Learning to build real-world, application-driven solutions — focused on predictive modeling, forecasting, and autonomous systems.
 
 👋 Hi, I’m @DevanshPaltewar
@@ -17,13 +17,10 @@ I apply AI & Deep Learning to build real-world, application-driven solutions —
 🤝 Open to collaborating on AI & Deep Learning projects
 
 📫 Contact:
-📧 your-email@example.com
+📧 devanshpaltewar2005@gmail.com
 
-⚙ Tech Stack
 
-🐍 Python | C | C++ | JavaScript
-🤖 Machine Learning | Deep Learning | LSTM
-📊 NumPy | Pandas | Matplotlib
-🌐 Flask | HTML | CSS
-🗄 MongoDB
-🛠 GitHub | Jupyter | VS Code
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,mongodb,flask,git,vscode" />
+</p>

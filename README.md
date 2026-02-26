@@ -19,8 +19,8 @@
 🤝 Open to collaborating on AI & Deep Learning projects
 
 
-📫 Contact:
-📧 devanshpaltewar2005@gmail.com
+📧 Contact:
+ devanshpaltewar2005@gmail.com
 
 
 <p align="left">

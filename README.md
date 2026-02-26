@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h2>A passionate Data Science & AI enthusiast from India</h2>
+<h2>🚀 Passionate about Data Science & AI </h2>
 
 </div>
 

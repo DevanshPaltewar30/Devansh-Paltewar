@@ -3,7 +3,7 @@
 
 
 
- ****🚀 Passionate about Data Science & Intelligent Systems****
+                                           ****🚀 Passionate about Data Science & Intelligent Systems****
 
 I apply AI & Deep Learning to build real-world, application-driven solutions — focused on predictive modeling, forecasting, and autonomous systems.
 

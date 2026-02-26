@@ -2,10 +2,7 @@
 
 
 **
-<div align="center">
-                                                        ****🚀 Passionate about Data Science & Intelligent Systems******
-
-                    </div>                                    
+<div align="center">          **  ****🚀 Passionate about Data Science & Intelligent Systems********</div>                                    
 I apply AI & Deep Learning to build real-world, application-driven solutions — focused on predictive modeling, forecasting, and autonomous systems.
 
 👋 Hi, I’m @DevanshPaltewar

@@ -8,7 +8,6 @@
 
 </div>
 
-
 I apply AI & Deep Learning to build real-world, application-driven solutions — focused on predictive modeling, forecasting, and autonomous systems.
 
 👋 Hi, I’m @DevanshPaltewar
@@ -20,7 +19,12 @@ I apply AI & Deep Learning to build real-world, application-driven solutions —
 📧 devanshpaltewar2005@gmail.com
 
 
+<p align="left">
+  <a href="https://linkedin.com/in/devansh-paltewar-981b8829a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+  </a>
+</p>>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,mongodb,flask,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,sklearn,pytorch,tensorflow,git" />
 </p>
